@@ -1,0 +1,6 @@
+@-moz-document domain("hotstar.com"), domain("www.hotstar.com") {
+  div.vjs-watermark-content.vjs-watermark-top-right {
+    visibility: hidden;
+    opacity: 0;
+  }
+}

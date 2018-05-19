@@ -1,0 +1,5 @@
+@-moz-document domain("stackoverflow.com"), domain("codereview.stackexchange.com"), domain("serverfault.com"), domain("superuser.com") {
+  pre {
+    max-height: none;
+  }
+}
